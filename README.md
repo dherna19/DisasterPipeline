@@ -35,8 +35,11 @@ This project requires Python 3.x and the following Python libraries installed:
 - Pandas
 - Sci-kit learn
 - NumPy
-- Seaborn
-- Matplotlib
+- sqlite3
+- sqlalchemy
+- nltk 
+- plotly
+- flask
 
 # Data
 Data was provided by Figure8 and Udacity 
